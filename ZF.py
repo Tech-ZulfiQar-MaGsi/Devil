@@ -98,7 +98,7 @@ def reg():
 
     os.system('clear')
 
-    print logo
+    print logo. zulfiqar
 
     print ''
 
